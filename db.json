@@ -1,0 +1,56 @@
+{
+  "churrascos": [
+    {
+      "id": "apCkQT-oXXgYSsx_jPhBp",
+      "carne": 1.32,
+      "paoDeAlho": 7,
+      "refri": 1,
+      "cerveja": 3,
+      "carvao": 4,
+      "pessoas": 4,
+      "criancas": 1,
+      "mulheres": 1,
+      "homens": 2,
+      "data": "2024-03-15T03:00:00.000Z"
+    },
+    {
+      "id": "-E9sUO7g3mWqEzJmh2tIQ",
+      "carne": 1.12,
+      "paoDeAlho": 6,
+      "refri": 1,
+      "cerveja": 3,
+      "carvao": 3,
+      "pessoas": 3,
+      "criancas": 0,
+      "mulheres": 1,
+      "homens": 2,
+      "data": "2024-03-14T03:00:00.000Z"
+    },
+    {
+      "id": "_1lRW-P4ChjuDLSB6g3S2",
+      "carne": 1.32,
+      "paoDeAlho": 7,
+      "refri": 1,
+      "cerveja": 3,
+      "carvao": 4,
+      "pessoas": 4,
+      "criancas": 1,
+      "mulheres": 1,
+      "homens": 2,
+      "data": "2024-03-21T03:00:00.000Z"
+    },
+    {
+      "id": "O0l26r9QALbE2Onqf544r",
+      "carne": 6.000000000000001,
+      "paoDeAlho": 34,
+      "refri": 4,
+      "cerveja": 16,
+      "carvao": 18,
+      "pessoas": 18,
+      "criancas": 2,
+      "mulheres": 10,
+      "homens": 6,
+      "data": "2024-03-28T03:00:00.000Z"
+    }
+  ]
+}
